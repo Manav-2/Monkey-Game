@@ -1,2 +1,3 @@
 # Monkey-Game
-a monkey has excaped from a zoo
+a monkey has escaped from a zoo
+
